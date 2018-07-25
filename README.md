@@ -1,2 +1,2 @@
 # Phishing-Website-Detection-and-Classification
-Detection of Phishing Websites and their classification based on their target industries.
+Conducted detailed analysis of Verified Phishing website database for detection, and classification based on their target industries using Topic modeling and NLP techniques. 
